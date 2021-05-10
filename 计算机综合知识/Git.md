@@ -38,6 +38,7 @@ git add .
 
 ```
 git commit –m "commit message"
+git push --set-upstream git@github.com:okbutsowhat/myTypora.git master
 ```
 
  
