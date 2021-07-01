@@ -325,7 +325,7 @@ let onePlus = new Phone('1+', 3999)
 
 ### 9.1 static属性
 
-static 标注的属性属于类, 不属于示例化的对象
+static 标注的属性属于类, 不属于实例化的对象
 
 ```js
 class Phone {
